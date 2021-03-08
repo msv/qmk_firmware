@@ -10,7 +10,7 @@
 	path = lib/ugfx
 	url = https://github.com/qmk/uGFX
 	branch = master
-	ignore = dirty
+	ignore = all
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/qmk/googletest
